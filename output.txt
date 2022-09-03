@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is B4CC-8F43
+
+ Directory of D:\MyDemoProject
+
+03-09-2022  10:12    <DIR>          .
+03-09-2022  10:12    <DIR>          ..
+03-09-2022  10:12                 0 output.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  874,538,840,064 bytes free
